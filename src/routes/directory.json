@@ -1,0 +1,1186 @@
+{
+	"name": ".github",
+	"type": "directory",
+	"children": [
+		{
+			"name": "FUNDING.yml",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/.github/FUNDING.yml"
+			}
+		},
+		{
+			"name": "stargazers-video.yml",
+			"type": "directory",
+			"children": [
+				{
+					"name": "stargazers-video.yml",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/.github/workflows/stargazers-video.yml"
+					}
+				}
+			]
+		},
+		{
+			"name": ".gitignore",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/.gitignore"
+			}
+		},
+		
+				{
+					"name": "pre-commit",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/.husky/pre-commit"
+					}
+				}
+			,
+		{
+			"name": "LICENSE",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/LICENSE"
+			}
+		},
+		{
+			"name": "README.md",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/README.md"
+			}
+		},
+		{
+			"name": "index.html",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/index.html"
+			}
+		},
+		{
+			"name": "jsconfig.json",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/jsconfig.json"
+			}
+		},
+		{
+			"name": "out.gif",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/out.gif"
+			}
+		},
+		{
+			"name": "out.mp4",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/out.mp4"
+			}
+		},
+		{
+			"name": "package-lock.json",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/package-lock.json"
+			}
+		},
+		{
+			"name": "package.json",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/package.json"
+			}
+		},
+		{
+			"name": "pnpm-lock.yaml",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/pnpm-lock.yaml"
+			}
+		},
+		{
+			"name": "postcss.config.cjs",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/postcss.config.cjs"
+			}
+		},
+		{
+			"name": "demo.webp",
+			"type": "directory",
+			"children": [
+				{
+					"name": "demo.webp",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/demo.webp"
+					}
+				},
+				{
+					"name": "favicon.ico",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/favicon.ico"
+					}
+				},
+				{
+					"name": "favicon.png",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/favicon.png"
+					}
+				},
+				{
+					"name": "SegoeUI-VF.ttf",
+					"type": "directory",
+					"children": [
+						{
+							"name": "SegoeUI-VF.ttf",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/SegoeUI-VF.ttf"
+							}
+						},
+						{
+							"name": "SegoeUI-VF.woff",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/SegoeUI-VF.woff"
+							}
+						},
+						{
+							"name": "SegoeUI-VF.woff2",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/SegoeUI-VF.woff2"
+							}
+						},
+						{
+							"name": "settingsIcon.ttf",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/settingsIcon.ttf"
+							}
+						},
+						{
+							"name": "settingsIcon.woff",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/settingsIcon.woff"
+							}
+						},
+						{
+							"name": "settingsIcon.woff2",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/font/settingsIcon.woff2"
+							}
+						}
+					]
+				},
+				{
+					"name": "googlebf4b5bb25b530650.html",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/googlebf4b5bb25b530650.html"
+					}
+				},
+				{
+					"name": "Screen",
+					"type": "directory",
+					"children": [
+						{
+							"name": "img100.jpg",
+							"type": "directory",
+							"children": [
+								{
+									"name": "img100.jpg",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Screen/img100.jpg"
+									}
+								},
+								{
+									"name": "img101.jpg",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Screen/img101.jpg"
+									}
+								},
+								{
+									"name": "img102.jpg",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Screen/img102.jpg"
+									}
+								},
+								{
+									"name": "img103.jpg",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Screen/img103.jpg"
+									}
+								},
+								{
+									"name": "img104.jpg",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Screen/img104.jpg"
+									}
+								}
+							]
+						},
+						{
+							"name": "Captured Motion",
+							"type": "directory",
+							"children": [
+								{
+									"name": "img24.jpg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "img24.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Captured%20Motion/img24.jpg"
+											}
+										},
+										{
+											"name": "img25.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Captured%20Motion/img25.jpg"
+											}
+										},
+										{
+											"name": "img26.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Captured%20Motion/img26.jpg"
+											}
+										},
+										{
+											"name": "img27.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Captured%20Motion/img27.jpg"
+											}
+										}
+									]
+								},
+								{
+									"name": "img32.jpg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "img32.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Flow/img32.jpg"
+											}
+										},
+										{
+											"name": "img33.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Flow/img33.jpg"
+											}
+										},
+										{
+											"name": "img34.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Flow/img34.jpg"
+											}
+										},
+										{
+											"name": "img35.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Flow/img35.jpg"
+											}
+										}
+									]
+								},
+								{
+									"name": "img20.jpg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "img20.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Glow/img20.jpg"
+											}
+										},
+										{
+											"name": "img21.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Glow/img21.jpg"
+											}
+										},
+										{
+											"name": "img22.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Glow/img22.jpg"
+											}
+										},
+										{
+											"name": "img23.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Glow/img23.jpg"
+											}
+										}
+									]
+								},
+								{
+									"name": "img28.jpg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "img28.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Sunrise/img28.jpg"
+											}
+										},
+										{
+											"name": "img29.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Sunrise/img29.jpg"
+											}
+										},
+										{
+											"name": "img30.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Sunrise/img30.jpg"
+											}
+										},
+										{
+											"name": "img31.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Sunrise/img31.jpg"
+											}
+										}
+									]
+								},
+								{
+									"name": "img0.jpg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "img0.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Windows/img0.jpg"
+											}
+										},
+										{
+											"name": "img19.jpg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/Wallpaper/Windows/img19.jpg"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "settings",
+							"type": "directory",
+							"children": [
+								{
+									"name": "Accessibility.webp",
+									"type": "directory",
+									"children": [
+										{
+											"name": "Accessibility.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Accessibility.webp"
+											}
+										},
+										{
+											"name": "Accounts.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Accounts.webp"
+											}
+										},
+										{
+											"name": "Apps.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Apps.webp"
+											}
+										},
+										{
+											"name": "Bluetooth & devices.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Bluetooth%20%26%20devices.webp"
+											}
+										},
+										{
+											"name": "Gaming.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Gaming.webp"
+											}
+										},
+										{
+											"name": "Network & internet.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Network%20%26%20internet.webp"
+											}
+										},
+										{
+											"name": "Personalisation.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Personalisation.webp"
+											}
+										},
+										{
+											"name": "Privacy & security.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Privacy%20%26%20security.webp"
+											}
+										},
+										{
+											"name": "System.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/System.webp"
+											}
+										},
+										{
+											"name": "Time & language.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Time%20%26%20language.webp"
+											}
+										},
+										{
+											"name": "Windows Update.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/Windows%20Update.webp"
+											}
+										},
+										{
+											"name": "defAccount.webp",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/defAccount.webp"
+											}
+										},
+										{
+											"name": "msft.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/msft.svg"
+											}
+										},
+										{
+											"name": "update.png",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/update.png"
+											}
+										},
+										{
+											"name": "wifi.png",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/apps/settings/wifi.png"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Calculator.png",
+							"type": "directory",
+							"children": [
+								{
+									"name": "Calculator.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Calculator.png"
+									}
+								},
+								{
+									"name": "Camera.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Camera.png"
+									}
+								},
+								{
+									"name": "Clock.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Clock.png"
+									}
+								},
+								{
+									"name": "Cortana.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Cortana.png"
+									}
+								},
+								{
+									"name": "File Explorer.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/File%20Explorer.png"
+									}
+								},
+								{
+									"name": "Get Help.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Get%20Help.png"
+									}
+								},
+								{
+									"name": "Get Started.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Get%20Started.png"
+									}
+								},
+								{
+									"name": "Github.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Github.png"
+									}
+								},
+								{
+									"name": "Maps.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Maps.png"
+									}
+								},
+								{
+									"name": "Microsoft Edge.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Microsoft%20Edge.png"
+									}
+								},
+								{
+									"name": "Microsoft Store.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Microsoft%20Store.png"
+									}
+								},
+								{
+									"name": "Notepad.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Notepad.png"
+									}
+								},
+								{
+									"name": "Phone Link.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Phone%20Link.png"
+									}
+								},
+								{
+									"name": "Photos.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Photos.png"
+									}
+								},
+								{
+									"name": "Recycle Bin.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Recycle%20Bin.png"
+									}
+								},
+								{
+									"name": "Settings.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Settings.png"
+									}
+								},
+								{
+									"name": "Start.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Start.png"
+									}
+								},
+								{
+									"name": "Task View.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Task%20View.png"
+									}
+								},
+								{
+									"name": "Terminal.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Terminal.png"
+									}
+								},
+								{
+									"name": "VS Code.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/VS%20Code.png"
+									}
+								},
+								{
+									"name": "Vercel.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Vercel.png"
+									}
+								},
+								{
+									"name": "Widgets.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Widgets.png"
+									}
+								},
+								{
+									"name": "Windows Security.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Windows%20Security.png"
+									}
+								},
+								{
+									"name": "Xbox Game Bar.png",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/Xbox%20Game%20Bar.png"
+									}
+								},
+								{
+									"name": "ChevronUp.svg",
+									"type": "directory",
+									"children": [
+										{
+											"name": "ChevronUp.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/ChevronUp.svg"
+											}
+										},
+										{
+											"name": "Speaker0.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/Speaker0.svg"
+											}
+										},
+										{
+											"name": "Speaker1.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/Speaker1.svg"
+											}
+										},
+										{
+											"name": "Speaker2.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/Speaker2.svg"
+											}
+										},
+										{
+											"name": "accessibility.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/accessibility.svg"
+											}
+										},
+										{
+											"name": "airplane.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/airplane.svg"
+											}
+										},
+										{
+											"name": "arrowAntiClockwise.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/arrowAntiClockwise.svg"
+											}
+										},
+										{
+											"name": "arrowClockwise.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/arrowClockwise.svg"
+											}
+										},
+										{
+											"name": "arrowLeft.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/arrowLeft.svg"
+											}
+										},
+										{
+											"name": "bluetooth.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/bluetooth.svg"
+											}
+										},
+										{
+											"name": "btCharge.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/btCharge.svg"
+											}
+										},
+										{
+											"name": "btEmpty.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/btEmpty.svg"
+											}
+										},
+										{
+											"name": "btFull.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/btFull.svg"
+											}
+										},
+										{
+											"name": "btSaver.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/btSaver.svg"
+											}
+										},
+										{
+											"name": "lock.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/lock.svg"
+											}
+										},
+										{
+											"name": "moon.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/moon.svg"
+											}
+										},
+										{
+											"name": "person.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/person.svg"
+											}
+										},
+										{
+											"name": "powerButton.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/powerButton.svg"
+											}
+										},
+										{
+											"name": "signOut.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/signOut.svg"
+											}
+										},
+										{
+											"name": "sun.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/sun.svg"
+											}
+										},
+										{
+											"name": "wifi.svg",
+											"type": "file",
+											"children": [],
+											"properties": {
+												"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/public/img/icon/ui/wifi.svg"
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "App.svelte",
+			"type": "directory",
+			"children": [
+				{
+					"name": "App.svelte",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/App.svelte"
+					}
+				},
+				{
+					"name": "Desktop.svelte",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/Desktop.svelte"
+					}
+				},
+				{
+					"name": "Taskbar.svelte",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/Taskbar.svelte"
+					}
+				},
+				{
+					"name": "Calculator.svelte",
+					"type": "directory",
+					"children": [
+						{
+							"name": "Calculator.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Calculator.svelte"
+							}
+						},
+						{
+							"name": "Camera.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Camera.svelte"
+							}
+						},
+						{
+							"name": "Edge.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Edge.svelte"
+							}
+						},
+						{
+							"name": "Explorer.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Explorer.svelte"
+							}
+						},
+						{
+							"name": "Notepad.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Notepad.svelte"
+							}
+						},
+						{
+							"name": "Settings.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Settings.svelte"
+							}
+						},
+						{
+							"name": "Store.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/Store.svelte"
+							}
+						},
+						{
+							"name": "VSCode.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/VSCode.svelte"
+							}
+						},
+						{
+							"name": "settingsData.json",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/apps/settingsData.json"
+							}
+						}
+					]
+				},
+				{
+					"name": "ActionCenter.svelte",
+					"type": "directory",
+					"children": [
+						{
+							"name": "ActionCenter.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/ActionCenter.svelte"
+							}
+						},
+						{
+							"name": "Calendar.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/Calendar.svelte"
+							}
+						},
+						{
+							"name": "Search.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/Search.svelte"
+							}
+						},
+						{
+							"name": "Start.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/Start.svelte"
+							}
+						},
+						{
+							"name": "Widgets.svelte",
+							"type": "file",
+							"children": [],
+							"properties": {
+								"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/Widgets.svelte"
+							}
+						},
+						{
+							"name": "Battery.svelte",
+							"type": "directory",
+							"children": [
+								{
+									"name": "Battery.svelte",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/shared/Battery.svelte"
+									}
+								},
+								{
+									"name": "Speaker.svelte",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/shared/Speaker.svelte"
+									}
+								},
+								{
+									"name": "Titlebar.svelte",
+									"type": "file",
+									"children": [],
+									"properties": {
+										"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/components/shared/Titlebar.svelte"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "global.css",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/global.css"
+					}
+				},
+				{
+					"name": "main.js",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/main.js"
+					}
+				},
+				{
+					"name": "store.js",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/store.js"
+					}
+				},
+				{
+					"name": "vite-env.d.ts",
+					"type": "file",
+					"children": [],
+					"properties": {
+						"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/src/vite-env.d.ts"
+					}
+				}
+			]
+		},
+		{
+			"name": "tailwind.config.cjs",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/tailwind.config.cjs"
+			}
+		},
+		{
+			"name": "vite.config.js",
+			"type": "file",
+			"children": [],
+			"properties": {
+				"contentURL": "https://raw.githubusercontent.com/yashash-pugalia/win11-svelte/main/vite.config.js"
+			}
+		}
+	]
+}
